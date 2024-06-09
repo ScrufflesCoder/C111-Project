@@ -1,0 +1,11 @@
+#camera, #result
+{
+    width: 350px;
+    height: 300px;
+    border: 2px solid lightgoldenrodyellow;
+}
+
+body
+{
+    background: radial-gradient(blue 0%, purple 100%);
+}
